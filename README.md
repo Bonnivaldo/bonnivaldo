@@ -20,3 +20,5 @@ And non profissional with
 If you want to talk with me or see my resume, please contact me!
 
 <a href="https://www.linkedin.com/in/cleidsonbononi" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+![Snake animation](https://github.com/bonnivaldo/bonnivaldo/blob/output/github-contribution-grid-snake.svg)
