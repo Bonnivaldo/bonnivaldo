@@ -1,7 +1,7 @@
 # Hello! Welcome to my Github profile.
 ## My name is Cleidson, but you can call me Bonni!
 
-I'm a mobile developer starting the carrer in this dev world!
+I'm a mobile developer growing my carrer in this dev world!
 
 Actually, I've working with Android, using Kotlin since 2022, but now I'm learning about Dart and Flutter development.
 I like to do widgets which turn the experience more easily for the final consumer. So I search for UX/UI news sometimes.
