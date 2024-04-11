@@ -8,6 +8,8 @@ I like to do widgets which turn the experience more easily for the final consume
 
 In this profile I'm keeping my personal projects that I test some libs and ways to do things with code.
 
+Now, I'm working in improve the apps [ShortNews](https://github.com/Bonnivaldo/ShortNews), [RinhaDeGalo]() and [MarketCalculator](). Go check this first! 
+
 At now, I worked profissionally with: 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"  width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="30" height="30"/>
 
